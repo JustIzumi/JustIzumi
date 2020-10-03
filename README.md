@@ -6,6 +6,6 @@
    
 ### Socials 🖼:
    **Discord: `いずみくん#7874`**                                                                                                                                                   
-   **Twitter: `@IzumiOnAnime`**
+   **Twitter: [`@IzumiOnAnime`](https://twitter.com/IzumiOnAnime)**
    
 ![Cover](https://i.imgur.com/KsbkbLo.jpg)                                                                                                                                                                                                                                                                                                                               
