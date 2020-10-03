@@ -8,4 +8,4 @@
    **Discord: `いずみくん#7874`**                                                                                                                                                   
    **Twitter: `@IzumiOnAnime`**
    
-![Cover](https://i.imgur.com/KsbkbLo.jpg)
+![Cover](https://i.imgur.com/KsbkbLo.jpg)                                                                                                                                                                                                                                                                                                                               
