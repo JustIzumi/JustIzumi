@@ -1,7 +1,7 @@
 ### Heya, fellow GitHub user currently viewing my profile 👋
 
 ### Projects 🔧:
-   **ProjectKazumi - A multifunctional Discord bot written in `JavaScript`**                                                                                                       
+   **ProjectSayuri - A multifunctional Discord bot written in JavaScript**                                                                                                       
    **AniChan - An anime themed Discord bot**
    
 ### Socials 🖼:
