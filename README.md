@@ -1,11 +1,10 @@
 ### Heya, fellow GitHub user currently viewing my profile 👋
 
 ### Projects 🔧:
-   **ProjectSayuri - A multifunctional Discord bot written in JavaScript**                                                                                                       
-   **AniChan - An anime themed Discord bot**
+   **ProjectNadeshiko - A multifunctional Discord bot written in JavaScript**                                                                                                       
    
 ### Socials 🖼:
-   **Discord: `いずみくん#7874`**                                                                                                                                                   
+   **Discord: `いずみくん#0001`**                                                                                                                                                   
    **Twitter: [`@IzumiOnAnime`](https://twitter.com/IzumiOnAnime)**
    
 ![Cover](https://i.imgur.com/KsbkbLo.jpg)                                                                                                                                                                                                                                                                                                                               
