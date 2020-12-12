@@ -1,7 +1,8 @@
-### Heya, fellow GitHub user currently viewing my profile 👋
+# Heya, fellow GitHub user currently viewing my profile 👋
+####Yes, I'm a weeb how did you know?
 
 ### Projects 🔧:
-   **ProjectNadeshiko - A multifunctional Discord bot written in JavaScript**                                                                                                       
+   **Nadeshiko - A multi-purpose Discord bot written in JavaScript (Currently private sourced)**                                                                                                       
    
 ### Socials 🖼:
    **Discord: `いずみくん#0001`**                                                                                                                                                   
