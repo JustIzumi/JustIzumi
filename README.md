@@ -8,4 +8,6 @@
    **Discord: `いずみくん#0001`**                                                                                                                                                   
    **Twitter: [`@IzumiOnAnime`](https://twitter.com/IzumiOnAnime)**
    
+![JustIzumi's stats](https://github-readme-stats.vercel.app/api?username=JustIzumi&show_icons=true&theme=midnight-purple)
+   
 ![Cover](https://i.imgur.com/KsbkbLo.jpg)                                                                                                                                                                                                                                                                                                                               
