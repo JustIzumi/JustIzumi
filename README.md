@@ -1,6 +1,8 @@
 # Heya, fellow GitHub user currently viewing my profile 👋
 #### Yes, I'm a weeb how did you know?
 
+<hr>
+
 ## Projects 🔧:
    **Nadeshiko - A multi-purpose Discord bot written in JavaScript (Currently private sourced)**  
    
