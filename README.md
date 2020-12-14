@@ -14,6 +14,6 @@
    
    <hr>
    
-![JustIzumi's stats](https://github-readme-stats.vercel.app/api?username=JustIzumi&show_icons=true&theme=midnight-purple)
+![JustIzumi's stats](https://github-readme-stats.vercel.app/api?username=JustIzumi&show_icons=true&theme=midnight-purple) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustIzumi&layout=compact)]
    
 ![Cover](https://i.imgur.com/KsbkbLo.jpg)                                                                                                                                                                                                                                                                                                                               
