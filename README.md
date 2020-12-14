@@ -1,5 +1,5 @@
 # Heya, fellow GitHub user currently viewing my profile 👋
-#### Yes, I'm a weeb how did you know?
+#### _Yes, I'm a weeb how did you know?_
 
 
 ## Projects 🔧:
