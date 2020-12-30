@@ -3,7 +3,7 @@
 
 
 ## Projects 🔧:
-   **Nadeshiko - A multi-purpose Discord bot written in JavaScript (Currently private sourced)**  
+   **Nadeshiko - [A multi-purpose Discord bot written in JavaScript](https://github.com/JustIzumi/Nadeshiko/)**  
  
    
 ## Socials 🖼:
