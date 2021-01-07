@@ -11,6 +11,6 @@
    **Twitter: [`@IzumiOnAnime`](https://twitter.com/IzumiOnAnime)**
 
 <img alt="JustIzumi's stats" style="align: left;" src="https://github-readme-stats.vercel.app/api?username=JustIzumi&show_icons=true&theme=midnight-purple">
-<img alt="JustIzumi's most used languages" style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustIzumi&layout=compact&theme=midnight-purple">
+<img alt="JustIzumi's most used languages" style="align: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustIzumi&layout=compact&theme=midnight-purple">
 
 ![Cover](https://i.imgur.com/KsbkbLo.jpg)                                                                                                                                                                                                                                                                                                                               
