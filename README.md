@@ -13,4 +13,6 @@
    
 ![JustIzumi's stats](https://github-readme-stats.vercel.app/api?username=JustIzumi&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustIzumi&layout=compact&theme=midnight-purple)
 
+<img alt="JustIzumi's stats" style="float: left;" src="https://github-readme-stats.vercel.app/api?username=JustIzumi&show_icons=true&theme=midnight-purple">
+
 ![Cover](https://i.imgur.com/KsbkbLo.jpg)                                                                                                                                                                                                                                                                                                                               
