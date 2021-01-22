@@ -1,4 +1,4 @@
-<h1><b><code>&lt;niiko /&gt;</code></b></h1> 👋
+<h1><b><code style="text-align: center;">&lt;niiko /&gt;</code></b></h1> 👋
 #### _Yes, I'm a weeb how did you know?_
 
 
