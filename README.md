@@ -1,4 +1,4 @@
-<center><h1><b><code>&lt;niiko /&gt;</code></b></h1></center>
+# `<Niiko />`
 
 ## Projects 🔧:
    **[Nadeshiko](https://github.com/JustIzumi/Nadeshiko/) - A multi-purpose Discord bot written in JavaScript**  
