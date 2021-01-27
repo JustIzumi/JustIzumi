@@ -1,6 +1,4 @@
 <center><h1><b><code>&lt;niiko /&gt;</code></b></h1></center>
-#### _Yes, I'm a weeb how did you know?_
-
 
 ## Projects 🔧:
    **[Nadeshiko](https://github.com/JustIzumi/Nadeshiko/) - A multi-purpose Discord bot written in JavaScript**  
