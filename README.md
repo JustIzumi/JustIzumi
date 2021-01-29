@@ -10,7 +10,8 @@ _**A young developer interested mainly in front-end development and anime**_
    **Discord: `いずみくん#2574`**                                                                                                                                                   
    **Twitter: [`@IzumiOnAnime`](https://twitter.com/IzumiOnAnime)**
 <br>
-<img alt="JustIzumi's stats" src="https://github-readme-stats.vercel.app/api?username=JustIzumi&show_icons=true&theme=midnight-purple"> <img alt="JustIzumi's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustIzumi&theme=midnight-purple">
+<br>
+<img alt="JustIzumi's stats" src="https://github-readme-stats.vercel.app/api?username=JustIzumi&show_icons=true&theme=midnight-purple">                         <img alt="JustIzumi's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustIzumi&theme=midnight-purple">
 <br>
 
 ![Cover](https://i.imgur.com/KsbkbLo.jpg)                                                                                                                                                                                                                                                                                                                               
