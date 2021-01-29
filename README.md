@@ -1,4 +1,4 @@
-# **<niiko />**
+# **`<niiko />`**
 
 _**A young developer interested mainly in front-end development and anime**_
 
