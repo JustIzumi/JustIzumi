@@ -1,6 +1,7 @@
 # **`<niiko />`**
 
 _**A young developer interested mainly in front-end development and anime**_
+![views](https://komarev.com/ghpvc/?username=JustIzumi&style=flat-square)
 
 ## Projects 🔧:
    **[Nadeshiko](https://github.com/JustIzumi/Nadeshiko/) - A multi-purpose Discord bot written in JavaScript**  
