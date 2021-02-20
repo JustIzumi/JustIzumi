@@ -12,8 +12,8 @@
 <br>
 <br>
 
-<img alt="JustIzumi's stats" src="https://github-readme-stats.vercel.app/api?username=szyven&show_icons=true&theme=midnight-purple">
-<img alt="JustIzumi's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyven&theme=midnight-purple&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=szyven&show_icons=true&theme=midnight-purple">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyven&theme=midnight-purple&layout=compact">
 
 <br>
 
